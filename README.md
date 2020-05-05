@@ -4,7 +4,7 @@ Most DeviantArt features are available through RSS feed. For how to create RSS i
 
 **I found two solutions for how to form a tape:**
 
-1. We use an example from DeviantArt with changes.
+#### 1. We use an example from DeviantArt with changes.
 
 ```https://backend.deviantart.com/rss.xml?type=deviation&q=[name]+sort%3Atime+meta%3Aall```
 
@@ -12,7 +12,7 @@ For example https://backend.deviantart.com/rss.xml?type=deviation&q=zeon-in-a-tr
 
 This method does not work with all profiles and for some profiles this method does not work.
 
-2. This is a universal way to create RSS Feeds.
+#### 2. This is a universal way to create RSS Feeds.
 
 ```https://backend.deviantart.com/rss.xml?q=gallery:[name]```
 
