@@ -10,7 +10,7 @@ I found two solutions for how to form a tape:
 
 For example https://backend.deviantart.com/rss.xml?type=deviation&q=zeon-in-a-tree+sort%3Atime+meta%3Aall
 
-_This method does not work with all profiles and for some profiles this method does not work._
+This method does not work with all profiles and for some profiles this method does not work.
 
 #### 2. This is a universal way to create RSS Feeds.
 
@@ -18,7 +18,7 @@ _This method does not work with all profiles and for some profiles this method d
 
 For example https://backend.deviantart.com/rss.xml?q=gallery:zeon-in-a-tree
 
-_Also in this [repository](https://github.com/jamesl1001/deviantART-API) I found how to access a specific gallery_
+Also in this [repository](https://github.com/jamesl1001/deviantART-API) I found how to access a specific gallery
 
 For example ```https://backend.deviantart.com/rss.xml?q=gallery:[deviant name]/[gallery]```
 
