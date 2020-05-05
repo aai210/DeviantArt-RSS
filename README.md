@@ -12,8 +12,11 @@ For example https://backend.deviantart.com/rss.xml?type=deviation&q=zeon-in-a-tr
 
 This method does not work with all profiles and for some profiles this method does not work.
 
-2. 
+2. This is a universal way to create RSS Feeds.
+
 ```https://backend.deviantart.com/rss.xml?q=gallery:[name]```
+
+For example https://backend.deviantart.com/rss.xml?q=gallery:zeon-in-a-tree
 
 Also in this [repository](https://github.com/jamesl1001/deviantART-API) I found how to access a specific gallery
 
