@@ -16,7 +16,7 @@ This method does not work with all profiles and for some profiles this method do
 
 For example https://backend.deviantart.com/rss.xml?q=gallery:zeon-in-a-tree
 
-Also in this [repository](https://github.com/jamesl1001/deviantART-API) I found how to access a specific gallery
+Also in this [repository](https://github.com/jamesl1001/deviantART-API) I found how to access a specific gallery.
 
 For example ```https://backend.deviantart.com/rss.xml?q=gallery:[deviant name]/[gallery]```
 
